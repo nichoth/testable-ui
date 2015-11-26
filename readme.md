@@ -10,7 +10,7 @@ Good
 
 Bad
 
-* Need to expose and document a larger interface &mdash; the internal actions used by your component
+* Need to expose and document a larger interface &mdash; the actions used by your component
 
 
 ## example

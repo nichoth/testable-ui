@@ -1,6 +1,6 @@
 # Testable UI components
 
-Make UI components that are pure state machines, then we can reuse the state logic with any render function.
+Make UI components that are pure state machines, then we can reuse the state logic with any render function, or without a render function.
 
 Good
 
@@ -10,7 +10,7 @@ Good
 
 Bad
 
-* Need to expose and document a larger interface &mdash; the actions emitted by your component
+* Need to expose and document a larger interface &mdash; the internal actions used by your component
 
 
 ## example
